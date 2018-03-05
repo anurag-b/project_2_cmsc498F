@@ -1,0 +1,8 @@
+prefix=/home/anuragb/ros_prac/catkin_ws_p10/install
+
+Name: project_2
+Description: Description of project_2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/anuragb/ros_prac/catkin_ws_p10/install/lib 
+Requires: 

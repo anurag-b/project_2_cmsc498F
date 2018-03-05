@@ -1,0 +1,8 @@
+prefix=/home/anuragb/ros_prac/catkin_ws_p10/install
+
+Name: wheeled_robot_kinematics
+Description: Description of wheeled_robot_kinematics
+Version: 0.0.0
+Cflags: -I/home/anuragb/ros_prac/catkin_ws_p10/install/include
+Libs: -L/home/anuragb/ros_prac/catkin_ws_p10/install/lib 
+Requires: message_runtime
